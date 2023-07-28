@@ -1,2 +1,2 @@
 # alg-gnome
-Arch Linux GUI Source Codes
+Arch Linux GUI
