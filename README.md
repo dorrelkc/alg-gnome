@@ -1,2 +1,2 @@
 # alg-gnome
-Arch Linux GUI
+Arch Linux GUI with Gnome
