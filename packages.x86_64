@@ -148,7 +148,7 @@ gnome-terminal
 gnome-backgrounds
 gnome-music
 gnome-calendar
-#gnome-software
+gnome-software
 gvfs
 mutter
 nautilus
@@ -161,3 +161,8 @@ grub
 calamares
 alg-pure-cala-config
 os-prober
+
+#Software
+firefox
+rhythmbox
+vlc
