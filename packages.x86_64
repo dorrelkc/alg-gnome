@@ -124,7 +124,7 @@ xfsprogs
 xl2tpd
 zsh
 
-#Arch Linux GUI GNOME core
+#GNOME core
 xorg
 gdm
 bash-completion
